@@ -1,7 +1,7 @@
 """
 CSC370 HW1: A* Algorithm Implementation on 8-Puzzle
 
-Author: Brandon Ra
+Author: Brandon Ra and Alex Hazan
 
 """
 dim = 3 #dimension value of the board
